@@ -1,0 +1,54 @@
+{
+    "Red Test": {
+        "Sprites": {
+            "base": "Sprites/Characters/Tests/Red_char.png"
+        },
+        "Base weapons": ["Test_1"]
+    },
+
+    "Green Test": {
+        "Sprites": {
+            "base": "Sprites/Characters/Tests/green_char.png",
+            "Idle right": [
+                "Sprites/Characters/Tests/green_char.png"
+            ],
+            "Idle left": [
+                "Sprites/Characters/Tests/green_char.png"
+            ],
+            "Walk right": [
+                "Sprites/Characters/Tests/green_char.png"
+            ],
+            "Walk left": [
+                "Sprites/Characters/Tests/green_char.png"
+            ]
+        },
+        "Base weapons": ["Wand", "Test_1"]
+    },
+
+    "Witch": {
+        "Sprites": {
+            "base": "Sprites/Characters/Witch/Stand/stand0.png",
+            "Idle right": [
+                "Sprites/Characters/Witch/Stand/stand0.png",
+                "Sprites/Characters/Witch/Stand/stand1.png"
+            ],
+            "Idle left": [
+                "Sprites/Characters/Witch/Stand/standl0.png",
+                "Sprites/Characters/Witch/Stand/standl1.png"
+            ],
+            "Walk right": [
+                "Sprites/Characters/Witch/Run/Run R0.png",
+                "Sprites/Characters/Witch/Run/Run R1.png",
+                "Sprites/Characters/Witch/Run/Run R2.png",
+                "Sprites/Characters/Witch/Run/Run R3.png"
+            ],
+            "Walk left": [
+                "Sprites/Characters/Witch/Run/Run L0.png",
+                "Sprites/Characters/Witch/Run/Run L1.png",
+                "Sprites/Characters/Witch/Run/Run L2.png",
+                "Sprites/Characters/Witch/Run/Run L3.png"
+            ]
+        },
+        "Base weapons": ["Wand"]
+    }
+}
