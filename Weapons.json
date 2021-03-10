@@ -1,0 +1,34 @@
+{
+    "Wand": {
+        "Name": "Wand",
+        "Image": "Sprites/Armes/wand.png",
+        "Icon": "Sprites/Armes/wand_icon.png",
+        "Ammo": 100,
+        "Damage": 1,
+        "Projectiles": "Bullets",
+        "Projectile Image": "Sprites/Bullets/base_bullet.png",
+        "UI Image": "Sprites/Armes/wand.png"
+    },
+
+    "Test_1":{
+        "Name": "Test_1",
+        "Image": "Sprites/Bullets/base_bullet.png",
+        "Icon": "Sprites/Bullets/base_bullet.png",
+        "Ammo": 100,
+        "Damage": 1,
+        "Projectiles": "Bullets",
+        "Projectile Image": "Sprites/Bullets/base_bullet.png",
+        "UI Image": "Sprites/Armes/wand.png"
+    },
+
+    "Test_2":{
+        "Name": "Test_2",
+        "Image": "Sprites/Bullets/base_bullet.png",
+        "Icon": "Sprites/Bullets/base_bullet.png",
+        "Ammo": 100,
+        "Damage": 1,
+        "Projectiles": "Bullets",
+        "Projectile Image": "Sprites/Bullets/base_bullet.png",
+        "UI Image": "Sprites/Armes/wand.png"
+    }
+}
